@@ -1,0 +1,7 @@
+main: me.IcanR.Combat.Main
+name: Combat
+version: 0.0.1
+author: IcanR
+
+commands:
+  Combat:
