@@ -1,0 +1,8 @@
+main: me.IcanR.GodSword.Main
+name: GodSword
+version: 1.0
+author: IcanR
+api-version: 1.13
+
+commands:
+  GodSword:

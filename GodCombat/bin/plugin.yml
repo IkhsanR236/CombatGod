@@ -1,0 +1,8 @@
+main: me.IcanR.GodCombat.Main
+name: CombatCrossbow
+version: 0.0.0.0.1
+author: IcanR
+api-version: 1.15
+
+commands:
+  CombatCrossbow:
