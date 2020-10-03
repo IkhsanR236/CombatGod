@@ -6,3 +6,6 @@ examples like C-1.0
 (Crossbow-1.0)
 
 CombatGod is a plugin that creates custom enchants for combat equipment in Minecraft, such as a crossbow that is shot will release lightning
+
+# ScreenShot ?
+![Preview](![Preview](http://i.imgur.com/eJgctc9.gif))
